@@ -1,0 +1,7 @@
+litellm>=1.55.0        # unified completion() across Gemini, xAI, Ollama, Groq, Together
+datasets>=2.19.0       # Hugging Face dataset loading (MMLU, AGIEval SAT)
+pandas>=2.0.0          # result tables and CSV export
+pymupdf>=1.24.0        # PDF text, page rendering and figure detection
+pydantic>=2.6.0        # config + structured-answer validation
+python-dotenv>=1.0.0   # optional: load .env automatically
+tabulate>=0.9.0        # optional: nicer console tables

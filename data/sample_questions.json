@@ -1,0 +1,49 @@
+[
+  {
+    "question": "If 3x + 7 = 22, what is the value of x?",
+    "choices": ["3", "5", "7", "15"],
+    "answer": 1
+  },
+  {
+    "question": "A car accelerates uniformly from rest to 20 m/s in 5 s. What is its acceleration?",
+    "choices": ["0.25 m/s^2", "4 m/s^2", "20 m/s^2", "100 m/s^2"],
+    "answer": 1
+  },
+  {
+    "question": "Which philosopher argued that we can only know the phenomenal world, not things as they are in themselves?",
+    "choices": ["David Hume", "Immanuel Kant", "John Locke", "Aristotle"],
+    "answer": 1
+  },
+  {
+    "question": "The slope of the line passing through (1, 2) and (3, 8) is:",
+    "choices": ["2", "3", "4", "6"],
+    "answer": 1
+  },
+  {
+    "question": "A 2 kg mass is lifted 3 m at constant speed. How much work is done against gravity? (g = 10 m/s^2)",
+    "choices": ["6 J", "20 J", "60 J", "600 J"],
+    "answer": 2
+  },
+  {
+    "question": "In formal logic, affirming the consequent is best described as:",
+    "choices": ["A valid deductive form", "A formal fallacy", "An inductive generalization", "A tautology"],
+    "answer": 1
+  },
+  {
+  "question": "After a couple dances for three hours in a charity dance-a-thon, they earn $50 per half-hour of additional dancing. Assuming they dance for at least three hours, which expression represents the total number of dollars earned by a couple who dances continuously for h hours?",
+    "choices": ["50h", "100h", "50(h - 3)", "100(h - 3)"],
+    "answer": 2
+  },
+  {
+    "question": "If a rectangle has a length of 10 cm and a width of 5 cm, what is its area?",
+    "choices": ["15 cm^2", "25 cm^2", "50 cm^2", "100 cm^2"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of France?",
+    "choices": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": 2
+  }
+] 
+
+
